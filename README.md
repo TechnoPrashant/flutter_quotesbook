@@ -51,11 +51,6 @@ A brain to think
 - <a href="https://twitter.com/PadmaniPrashant">Twitter</a>
 - <a href="https://www.facebook.com/technoprashant1336">Facebook Page</a>
 - <a href="https://www.facebook.com/padmaniprashant">Facebook</a>
- 
- # ⭐ Star the repo if you like what you see. ⭐
- 
- # ☕️ Donate
- <a href="https://www.buymeacoffee.com/technoprashant" target="_blank"><img src="https://bmc-cdn.nyc3.digitaloceanspaces.com/BMC-button-images/custom_images/orange_img.png" alt="Buy Me A Coffee" style="height: auto !important;width: auto !important;" ></a>
 
 # Getting Started
 This project is a starting point for a Flutter application.
@@ -65,3 +60,8 @@ Lab: <a href="https://flutter.dev/docs/get-started/codelab">Make your First Flut
 Cookbook: <a href="https://flutter.dev/docs/cookbook">Usefull Flutter Demos</a>
 
 For help getting started with Flutter, view our <a href="https://flutter.dev/docs">Flutter Document</a>, which offers tutorials, samples, guidance on mobile development, and a full API reference.
+
+<h3> ⭐ Star the repo if you like what you see. ⭐</h3>
+
+ # ☕️ Donate
+ <a href="https://www.buymeacoffee.com/technoprashant" target="_blank"><img src="https://bmc-cdn.nyc3.digitaloceanspaces.com/BMC-button-images/custom_images/orange_img.png" alt="Buy Me A Coffee" style="height: auto !important;width: auto !important;" ></a>
