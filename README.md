@@ -15,6 +15,9 @@
 - Auto resize Text
 - Toast
 
+# UI
+<img src="https://github.com/Prashant09mca/flutter_quotesbook/blob/master/ss.png"/>
+
 # Video
 - <a href="https://www.youtube.com/watch?v=Ig6Khy9LHX8">Watch Video</a>
 
