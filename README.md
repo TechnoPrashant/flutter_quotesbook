@@ -53,6 +53,9 @@ A brain to think
 - <a href="https://www.facebook.com/padmaniprashant">Facebook</a>
  
  # ⭐ Star the repo if you like what you see. ⭐
+ 
+ # ☕️ Donate
+ <a href="https://www.buymeacoffee.com/technoprashant" target="_blank"><img src="https://bmc-cdn.nyc3.digitaloceanspaces.com/BMC-button-images/custom_images/orange_img.png" alt="Buy Me A Coffee" style="height: auto !important;width: auto !important;" ></a>
 
 # Getting Started
 This project is a starting point for a Flutter application.
