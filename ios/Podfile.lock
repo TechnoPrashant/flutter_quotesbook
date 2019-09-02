@@ -1,0 +1,211 @@
+PODS:
+  - Bolts (1.9.0):
+    - Bolts/AppLinks (= 1.9.0)
+    - Bolts/Tasks (= 1.9.0)
+  - Bolts/AppLinks (1.9.0):
+    - Bolts/Tasks
+  - Bolts/Tasks (1.9.0)
+  - clipboard_manager (0.0.3):
+    - Flutter
+  - countdown_flutter (0.0.1):
+    - Flutter
+  - FBSDKCoreKit (4.39.1):
+    - Bolts (~> 1.9)
+  - FBSDKLoginKit (4.39.1):
+    - FBSDKCoreKit
+  - Firebase/Auth (6.1.0):
+    - Firebase/CoreOnly
+    - FirebaseAuth (~> 6.1.0)
+  - Firebase/Core (6.1.0):
+    - Firebase/CoreOnly
+    - FirebaseAnalytics (= 6.0.1)
+  - Firebase/CoreOnly (6.1.0):
+    - FirebaseCore (= 6.0.1)
+  - Firebase/Database (6.1.0):
+    - Firebase/CoreOnly
+    - FirebaseDatabase (~> 6.0.0)
+  - firebase_auth (0.0.1):
+    - Firebase/Auth (~> 6.0)
+    - Firebase/Core
+    - Flutter
+  - firebase_core (0.0.1):
+    - Firebase/Core
+    - Flutter
+  - firebase_database (0.0.1):
+    - Firebase/Database
+    - Flutter
+  - FirebaseAnalytics (6.0.1):
+    - FirebaseCore (~> 6.0)
+    - FirebaseInstanceID (~> 4.1)
+    - GoogleAppMeasurement (= 6.0.1)
+    - GoogleUtilities/AppDelegateSwizzler (~> 6.0)
+    - GoogleUtilities/MethodSwizzler (~> 6.0)
+    - GoogleUtilities/Network (~> 6.0)
+    - "GoogleUtilities/NSData+zlib (~> 6.0)"
+    - nanopb (~> 0.3)
+  - FirebaseAuth (6.1.0):
+    - FirebaseAuthInterop (~> 1.0)
+    - FirebaseCore (~> 6.0)
+    - GoogleUtilities/AppDelegateSwizzler (~> 6.0)
+    - GoogleUtilities/Environment (~> 6.0)
+    - GTMSessionFetcher/Core (~> 1.1)
+  - FirebaseAuthInterop (1.0.0)
+  - FirebaseCore (6.0.1):
+    - GoogleUtilities/Environment (~> 6.0)
+    - GoogleUtilities/Logger (~> 6.0)
+  - FirebaseDatabase (6.0.0):
+    - FirebaseAuthInterop (~> 1.0)
+    - FirebaseCore (~> 6.0)
+    - leveldb-library (~> 1.18)
+  - FirebaseInstanceID (4.1.0):
+    - FirebaseCore (~> 6.0)
+    - GoogleUtilities/Environment (~> 6.0)
+    - GoogleUtilities/UserDefaults (~> 6.0)
+  - Flutter (1.0.0)
+  - flutter_country_picker (0.0.1):
+    - Flutter
+  - flutter_facebook_login (0.0.1):
+    - FBSDKCoreKit (= 4.39.1)
+    - FBSDKLoginKit (= 4.39.1)
+    - Flutter
+  - google_sign_in (0.0.1):
+    - Flutter
+    - GoogleSignIn (~> 4.0)
+  - GoogleAppMeasurement (6.0.1):
+    - GoogleUtilities/AppDelegateSwizzler (~> 6.0)
+    - GoogleUtilities/MethodSwizzler (~> 6.0)
+    - GoogleUtilities/Network (~> 6.0)
+    - "GoogleUtilities/NSData+zlib (~> 6.0)"
+    - nanopb (~> 0.3)
+  - GoogleSignIn (4.4.0):
+    - "GoogleToolboxForMac/NSDictionary+URLArguments (~> 2.1)"
+    - "GoogleToolboxForMac/NSString+URLArguments (~> 2.1)"
+    - GTMSessionFetcher/Core (~> 1.1)
+  - GoogleToolboxForMac/DebugUtils (2.2.1):
+    - GoogleToolboxForMac/Defines (= 2.2.1)
+  - GoogleToolboxForMac/Defines (2.2.1)
+  - "GoogleToolboxForMac/NSDictionary+URLArguments (2.2.1)":
+    - GoogleToolboxForMac/DebugUtils (= 2.2.1)
+    - GoogleToolboxForMac/Defines (= 2.2.1)
+    - "GoogleToolboxForMac/NSString+URLArguments (= 2.2.1)"
+  - "GoogleToolboxForMac/NSString+URLArguments (2.2.1)"
+  - GoogleUtilities/AppDelegateSwizzler (6.1.0):
+    - GoogleUtilities/Environment
+    - GoogleUtilities/Logger
+    - GoogleUtilities/Network
+  - GoogleUtilities/Environment (6.1.0)
+  - GoogleUtilities/Logger (6.1.0):
+    - GoogleUtilities/Environment
+  - GoogleUtilities/MethodSwizzler (6.1.0):
+    - GoogleUtilities/Logger
+  - GoogleUtilities/Network (6.1.0):
+    - GoogleUtilities/Logger
+    - "GoogleUtilities/NSData+zlib"
+    - GoogleUtilities/Reachability
+  - "GoogleUtilities/NSData+zlib (6.1.0)"
+  - GoogleUtilities/Reachability (6.1.0):
+    - GoogleUtilities/Logger
+  - GoogleUtilities/UserDefaults (6.1.0):
+    - GoogleUtilities/Logger
+  - GTMSessionFetcher/Core (1.2.2)
+  - leveldb-library (1.20)
+  - nanopb (0.3.901):
+    - nanopb/decode (= 0.3.901)
+    - nanopb/encode (= 0.3.901)
+  - nanopb/decode (0.3.901)
+  - nanopb/encode (0.3.901)
+  - share (0.5.2):
+    - Flutter
+  - shared_preferences (0.0.1):
+    - Flutter
+
+DEPENDENCIES:
+  - clipboard_manager (from `.symlinks/plugins/clipboard_manager/ios`)
+  - countdown_flutter (from `.symlinks/plugins/countdown_flutter/ios`)
+  - firebase_auth (from `.symlinks/plugins/firebase_auth/ios`)
+  - firebase_core (from `.symlinks/plugins/firebase_core/ios`)
+  - firebase_database (from `.symlinks/plugins/firebase_database/ios`)
+  - Flutter (from `.symlinks/flutter/ios`)
+  - flutter_country_picker (from `.symlinks/plugins/flutter_country_picker/ios`)
+  - flutter_facebook_login (from `.symlinks/plugins/flutter_facebook_login/ios`)
+  - google_sign_in (from `.symlinks/plugins/google_sign_in/ios`)
+  - share (from `.symlinks/plugins/share/ios`)
+  - shared_preferences (from `.symlinks/plugins/shared_preferences/ios`)
+
+SPEC REPOS:
+  https://github.com/cocoapods/specs.git:
+    - Bolts
+    - FBSDKCoreKit
+    - FBSDKLoginKit
+    - Firebase
+    - FirebaseAnalytics
+    - FirebaseAuth
+    - FirebaseAuthInterop
+    - FirebaseCore
+    - FirebaseDatabase
+    - FirebaseInstanceID
+    - GoogleAppMeasurement
+    - GoogleSignIn
+    - GoogleToolboxForMac
+    - GoogleUtilities
+    - GTMSessionFetcher
+    - leveldb-library
+    - nanopb
+
+EXTERNAL SOURCES:
+  clipboard_manager:
+    :path: ".symlinks/plugins/clipboard_manager/ios"
+  countdown_flutter:
+    :path: ".symlinks/plugins/countdown_flutter/ios"
+  firebase_auth:
+    :path: ".symlinks/plugins/firebase_auth/ios"
+  firebase_core:
+    :path: ".symlinks/plugins/firebase_core/ios"
+  firebase_database:
+    :path: ".symlinks/plugins/firebase_database/ios"
+  Flutter:
+    :path: ".symlinks/flutter/ios"
+  flutter_country_picker:
+    :path: ".symlinks/plugins/flutter_country_picker/ios"
+  flutter_facebook_login:
+    :path: ".symlinks/plugins/flutter_facebook_login/ios"
+  google_sign_in:
+    :path: ".symlinks/plugins/google_sign_in/ios"
+  share:
+    :path: ".symlinks/plugins/share/ios"
+  shared_preferences:
+    :path: ".symlinks/plugins/shared_preferences/ios"
+
+SPEC CHECKSUMS:
+  Bolts: ac6567323eac61e203f6a9763667d0f711be34c8
+  clipboard_manager: f4800834e62cc26b1cc4e0a92a35cd452dd8b827
+  countdown_flutter: 423a4cc24614ccb078c2ce4ac6739b1d85cbe98b
+  FBSDKCoreKit: f442aa96179cc9b382bb4abeb7e340a47cca8f91
+  FBSDKLoginKit: c3079d9a4db27c492287b1eed7a4272b28cf8a59
+  Firebase: 8d77bb33624ae9b62d745d82ec023de5f70f7e4f
+  firebase_auth: 00d6e1ab6d890cd6d3c624df61702e3a7072d1e3
+  firebase_core: ae55ea92448ec8675d325da4db22cf3b4d58a54d
+  firebase_database: d4f066a1b01f309676d0d2678ec600d6af18ad97
+  FirebaseAnalytics: 629301c2b9925f3537d4093a17a72751ae5b7084
+  FirebaseAuth: 4281d6d98a90881e00710fa8d9e37c2ccdfc7d80
+  FirebaseAuthInterop: 0ffa57668be100582bb7643d4fcb7615496c41fc
+  FirebaseCore: 66bdef3b310a026880e2a5bc8aa586ab62ce4543
+  FirebaseDatabase: f48e067716864be2b855cf716b927ef375d6cfa0
+  FirebaseInstanceID: 27bed93a59b6685f5c3e0c028a878a764fd75c33
+  Flutter: 58dd7d1b27887414a370fcccb9e645c08ffd7a6a
+  flutter_country_picker: b73efbc3f1b01519adb99bf8635865737b9422df
+  flutter_facebook_login: be61e24a4b7d621515353c6b4583d1981bdaa3d6
+  google_sign_in: 27e70a98b529f0b076d4b19f231b81da28b1750b
+  GoogleAppMeasurement: 51d8d9ea48f0ca44484d29cfbdef976fbd4fc336
+  GoogleSignIn: 7ff245e1a7b26d379099d3243a562f5747e23d39
+  GoogleToolboxForMac: b3553629623a3b1bff17f555e736cd5a6d95ad55
+  GoogleUtilities: 84df567c76ca84f67b7bb40e769fdd4acc746a10
+  GTMSessionFetcher: 61bb0f61a4cb560030f1222021178008a5727a23
+  leveldb-library: 08cba283675b7ed2d99629a4bc5fd052cd2bb6a5
+  nanopb: 2901f78ea1b7b4015c860c2fdd1ea2fee1a18d48
+  share: 7d22fe8baedfe93aefd864bf0b73f29711fbb0a3
+  shared_preferences: 1feebfa37bb57264736e16865e7ffae7fc99b523
+
+PODFILE CHECKSUM: b6a0a141693093b304368d08511b46cf3d1d0ac5
+
+COCOAPODS: 1.7.5

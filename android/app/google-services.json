@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "113730134787",
+    "firebase_url": "https://flutter-quote-book.firebaseio.com",
+    "project_id": "flutter-quote-book",
+    "storage_bucket": "flutter-quote-book.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:113730134787:android:a66343f1a78d1007",
+        "android_client_info": {
+          "package_name": "technoprashant.flutter_quotebook"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "113730134787-ngvip8u53oejqerf7lq1tefe38s4874t.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDGl2SNIhuN-CdNUpOyKBhjzgIaBaZRlcs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "113730134787-ngvip8u53oejqerf7lq1tefe38s4874t.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "113730134787-2f5vnraqmatucnhh7f4ra9j2blp2ghg3.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "technoprashant.flutterQuotebook"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

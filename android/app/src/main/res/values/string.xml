@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="facebook_app_id">501810910582706</string>
+
+    <!--
+      Replace "000000000000" with your Facebook App ID here.
+      **NOTE**: The scheme needs to start with `fb` and then your ID.
+    -->
+    <string name="fb_login_protocol_scheme">fb501810910582706</string>
+    <string name="app_name">Daily Quote Book</string>
+</resources>
