@@ -21,6 +21,12 @@
 # Video
 - <a href="https://www.youtube.com/watch?v=Ig6Khy9LHX8">Watch Video</a>
 
+# Firebase User Table Strucutre
+<img src="https://github.com/Prashant09mca/flutter_quotesbook/blob/master/User_Table.png"/>
+
+# Firebase Quotes Table Strucutre
+<img src="https://github.com/Prashant09mca/flutter_quotesbook/blob/master/Category_Table.png"/>
+
 <h3> ⭐ Star the repo if you like what you see. ⭐</h3>
 
 # Support library 
