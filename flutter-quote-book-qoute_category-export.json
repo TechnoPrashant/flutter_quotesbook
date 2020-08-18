@@ -1,0 +1,80 @@
+{
+  "All" : {
+    "image" : "https://firebasestorage.googleapis.com/v0/b/flutter-quote-book.appspot.com/o/category%2Ftestimage?alt=media&token=9f565090-63c7-4c38-8b8b-16a8944d3998",
+    "name" : "All",
+    "quotes" : {
+      "-Lme1DKNU6fYunmc5vjc" : {
+        "autherId" : "3qaRKy2AnpQ7bhlYxWIEV5pVyLo2",
+        "autherName" : "Quote Book",
+        "autherPic" : "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSQmNZxADT7Tc0oznG7e55bA-WvkdkV7CLNXtHs9QB1jwJdb-gt",
+        "like" : "0",
+        "quote" : "Depression is merely anger without enthusiasm"
+      },
+      "-Lme1Dm-oYXk6Qir38AD" : {
+        "autherId" : "3qaRKy2AnpQ7bhlYxWIEV5pVyLo2",
+        "autherName" : "Quote Book",
+        "autherPic" : "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSQmNZxADT7Tc0oznG7e55bA-WvkdkV7CLNXtHs9QB1jwJdb-gt",
+        "like" : "0",
+        "quote" : "Anger makes dull men witty, but it keeps them poor.\n"
+      },
+      "-Lme1DqB1UeBI8QXAoTj" : {
+        "autherId" : "3qaRKy2AnpQ7bhlYxWIEV5pVyLo2",
+        "autherName" : "Quote Book",
+        "autherPic" : "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSQmNZxADT7Tc0oznG7e55bA-WvkdkV7CLNXtHs9QB1jwJdb-gt",
+        "like" : "0",
+        "quote" : "Where there is anger, there is always pain underneath.\n"
+      }
+     
+    }
+  },
+  "Alone" : {
+    "image" : "https://firebasestorage.googleapis.com/v0/b/flutter-quote-book.appspot.com/o/category%2Ftestimage?alt=media&token=9f565090-63c7-4c38-8b8b-16a8944d3998",
+    "name" : "Alone",
+    "quotes" : {
+      "-Lmdy7BeQZ_ZDrswsMLD" : {
+        "autherId" : "3qaRKy2AnpQ7bhlYxWIEV5pVyLo2",
+        "autherName" : "Quote Book",
+        "autherPic" : "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSQmNZxADT7Tc0oznG7e55bA-WvkdkV7CLNXtHs9QB1jwJdb-gt",
+        "like" : "0",
+        "quote" : "Walking with a friend in the dark is better than walking alone in the light."
+      },
+      "-Lmdy7G6watuWW2n0Ru6" : {
+        "autherId" : "3qaRKy2AnpQ7bhlYxWIEV5pVyLo2",
+        "autherName" : "Quote Book",
+        "autherPic" : "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSQmNZxADT7Tc0oznG7e55bA-WvkdkV7CLNXtHs9QB1jwJdb-gt",
+        "like" : "0",
+        "quote" : "The doer alone learneth."
+      }
+     
+    }
+  },
+  "Angry" : {
+    "image" : "https://firebasestorage.googleapis.com/v0/b/flutter-quote-book.appspot.com/o/category%2Ftestimage?alt=media&token=9f565090-63c7-4c38-8b8b-16a8944d3998",
+    "name" : "Angry",
+    "quotes" : {
+      "-LmdqmKwQW02oEtrCs_q" : {
+        "autherId" : "3qaRKy2AnpQ7bhlYxWIEV5pVyLo2",
+        "autherName" : "Quote Book",
+        "autherPic" : "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSQmNZxADT7Tc0oznG7e55bA-WvkdkV7CLNXtHs9QB1jwJdb-gt",
+        "like" : "0",
+        "quote" : "Depression is merely anger without enthusiasm"
+      },
+      "-LmdqmqBG3Of-KAYgm5m" : {
+        "autherId" : "3qaRKy2AnpQ7bhlYxWIEV5pVyLo2",
+        "autherName" : "Quote Book",
+        "autherPic" : "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSQmNZxADT7Tc0oznG7e55bA-WvkdkV7CLNXtHs9QB1jwJdb-gt",
+        "like" : "0",
+        "quote" : "Anger makes dull men witty, but it keeps them poor.\n"
+      },
+      "-LmdqmuhCnb5U19sl44h" : {
+        "autherId" : "3qaRKy2AnpQ7bhlYxWIEV5pVyLo2",
+        "autherName" : "Quote Book",
+        "autherPic" : "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSQmNZxADT7Tc0oznG7e55bA-WvkdkV7CLNXtHs9QB1jwJdb-gt",
+        "like" : "0",
+        "quote" : "Where there is anger, there is always pain underneath.\n"
+      }
+      
+    }
+  }
+  
+}

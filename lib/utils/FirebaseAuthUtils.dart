@@ -23,7 +23,7 @@ class FirebaseAuthUtils {
       idToken: googleAuth.idToken,
     );
     try {
-      user = await _auth.signInWithCredential(credential);
+      user = (await _auth.signInWithCredential(credential)).user;
       assert(!user.isAnonymous);
       assert(await user.getIdToken() != null);
 
@@ -54,7 +54,7 @@ class FirebaseAuthUtils {
         final AuthCredential credential = FacebookAuthProvider.getCredential(
           accessToken: result.accessToken.token,
         );
-        user = (await _auth.signInWithCredential(credential));
+        user = (await _auth.signInWithCredential(credential)).user;
         assert(user.email != null);
         assert(user.displayName != null);
         assert(!user.isAnonymous);
@@ -108,10 +108,11 @@ class FirebaseAuthUtils {
     print("==Login Email: " + email);
     print("==Login Password: " + password);
     try {
-      user = await _auth.createUserWithEmailAndPassword(
+      user = (await _auth.createUserWithEmailAndPassword(
         email: email,
         password: email,
-      );
+      ))
+          .user;
     } on PlatformException catch (error) {
       errorMessage = error.message;
     } finally {
@@ -144,7 +145,7 @@ class FirebaseAuthUtils {
       user = (await _auth.signInWithEmailAndPassword(
         email: email,
         password: password,
-      ));
+      )).user;
     } on PlatformException catch (error) {
       UtilsImporter().commanUtils.showToast(error.message, context);
     }

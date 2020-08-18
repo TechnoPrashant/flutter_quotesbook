@@ -145,13 +145,13 @@ class _CreateAccountScreenState extends State<CreateAccountScreen> {
         builder: (_) => AssetGiffyDialog(
               title: Text(
                 UtilsImporter().stringUtils.messageTitle,
-                style: UtilsImporter().styleUtils.homeTextFieldStyle(),
+                style: UtilsImporter().styleUtils.loginTextFieldStyle(),
               ),
               image: Image.asset('images/email.gif'),
               description: Text(
                 UtilsImporter().stringUtils.messageSuccess,
                 textAlign: TextAlign.center,
-                style: UtilsImporter().styleUtils.homeTextFieldStyle(),
+                style: UtilsImporter().styleUtils.OTPTextFieldStyle(),
               ),
               onlyOkButton: true,
               onOkButtonPressed: () {

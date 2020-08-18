@@ -1,10 +1,9 @@
-import 'package:data_connection_checker/data_connection_checker.dart';
 import 'package:flutter/gestures.dart';
 import 'package:flutter/material.dart';
 import 'package:flutter_quotebook/model/UserBean.dart';
 import 'package:flutter_quotebook/screen/CreateAccount.dart';
-import 'package:flutter_quotebook/utils/UtilsImporter.dart';
 import 'package:flutter_quotebook/screen/Home.dart';
+import 'package:flutter_quotebook/utils/UtilsImporter.dart';
 
 class Login extends StatelessWidget {
   @override

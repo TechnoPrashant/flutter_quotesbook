@@ -25,7 +25,7 @@ class StringUtils {
   String retrunNumber = "Please enter valid Number";
   String lableEnterOPT = 'Enter OTP';
   String messageSuccess =
-      'Your email is registred succesfully, Please check your inbox for create password come back to app. We are waitng for you';
+      'Your email is registred succesfully, Please check your inbox for change password.';
   String messageTitle = 'Thank you!';
   String messageCong = 'Congratulations';
   String userPlaceHolder =
