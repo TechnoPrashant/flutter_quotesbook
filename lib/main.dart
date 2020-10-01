@@ -6,10 +6,23 @@ import 'package:flutter_quotebook/screen/Home.dart';
 
 import 'package:flutter_quotebook/screen/Login.dart';
 import 'package:flutter_quotebook/utils/UtilsImporter.dart';
+import 'package:flutter/cupertino.dart';
+import 'package:flutter/foundation.dart';
 
 void main() {
   runApp(MyApp());
 }
+
+final ThemeData kIOSTheme = ThemeData(
+  primarySwatch: Colors.orange,
+  primaryColor: Colors.grey[100],
+  primaryColorBrightness: Brightness.light,
+);
+
+final ThemeData kDefaultTheme = ThemeData(
+  primarySwatch: Colors.purple,
+  accentColor: Colors.orangeAccent[400],
+);
 
 class MyApp extends StatelessWidget {
   @override
@@ -18,6 +31,9 @@ class MyApp extends StatelessWidget {
     return MaterialApp(
       color: Colors.white,
       debugShowCheckedModeBanner: false,
+      theme: defaultTargetPlatform == TargetPlatform.iOS
+          ? kIOSTheme
+          : kDefaultTheme,
       home: SplashScreen(),
     );
   }
